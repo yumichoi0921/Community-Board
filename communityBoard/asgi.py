@@ -1,5 +1,5 @@
 """
-ASGI config for communityBoard project.
+ASGI communityBoard for communityBoard project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

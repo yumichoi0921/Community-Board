@@ -1,5 +1,5 @@
 """
-WSGI config for communityBoard project.
+WSGI communityBoard for communityBoard project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
